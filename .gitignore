@@ -2,8 +2,8 @@
 .idea
 *.log
 tmp/
-.out
 node_modules/
 .exercism
 __pycache__/
 .mypy_cache/
+*.out
