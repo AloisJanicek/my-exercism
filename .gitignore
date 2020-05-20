@@ -13,3 +13,5 @@ test/
 cmake_install.cmake
 CMakeFiles/
 CMakeCache.txt
+box.json
+testbox/
