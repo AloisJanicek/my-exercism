@@ -5,3 +5,5 @@ tmp/
 
 node_modules/
 .exercism
+__pycache__/
+.mypy_cache/
