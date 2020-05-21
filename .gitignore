@@ -18,3 +18,5 @@ tmp/
 testbox/
 target/
 cpp/**/test
+.dub/
+hello-world-test-library
