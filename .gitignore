@@ -24,3 +24,5 @@ pubspec.lock
 .packages
 .dart_tool
 elm-stuff
+_build
+*.beam
