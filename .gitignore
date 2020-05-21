@@ -20,3 +20,6 @@ target/
 cpp/**/test
 .dub/
 hello-world-test-library
+pubspec.lock
+.packages
+.dart_tool
