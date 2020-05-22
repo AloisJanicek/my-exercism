@@ -27,3 +27,5 @@ elm-stuff
 _build
 *.beam
 .ionide
+.gradle
+groovy/**/build
