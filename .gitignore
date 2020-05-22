@@ -29,3 +29,4 @@ _build
 .ionide
 .gradle
 groovy/**/build
+.stack-work
