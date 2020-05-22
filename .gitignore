@@ -31,3 +31,7 @@ _build
 groovy/**/build
 kotlin/**/build
 .stack-work
+.classpath
+.project
+.settings
+java/**/build/
