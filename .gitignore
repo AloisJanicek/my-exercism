@@ -29,4 +29,5 @@ _build
 .ionide
 .gradle
 groovy/**/build
+kotlin/**/build
 .stack-work
