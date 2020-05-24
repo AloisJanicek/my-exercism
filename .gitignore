@@ -37,3 +37,5 @@ kotlin/**/build
 java/**/build/
 _build
 .merlin
+scala/**/project/
+scala/**/target/
