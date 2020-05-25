@@ -40,3 +40,9 @@ _build
 scala/**/project/
 scala/**/target/
 reasonml/**/lib/
+bower_components
+.psci_modules
+.pulp-cache
+purescript/**/output
+.metals
+.psc-ide-port
