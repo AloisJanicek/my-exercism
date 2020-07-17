@@ -46,3 +46,4 @@ bower_components
 purescript/**/output
 .metals
 .psc-ide-port
+.precomp
