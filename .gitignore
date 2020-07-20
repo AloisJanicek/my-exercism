@@ -47,3 +47,4 @@ purescript/**/output
 .metals
 .psc-ide-port
 .precomp
+.lsp
